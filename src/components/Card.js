@@ -56,7 +56,10 @@ export default function Card() {
       <div className={css.infoCard}>
         <span className={css.nomeProblema}>Automatizacao do processo XPTO</span>
         <div className="form-group col-lg-15">
-          <label htmlFor="descProblema">Problema</label>
+          <div className={css.row}>
+            <label htmlFor="descProblema">Problema</label>
+            <button className={css.btn_resolver}>Bora Resolver ?</button>
+          </div>
           <textarea
             className="form-control"
             id="descProblema"

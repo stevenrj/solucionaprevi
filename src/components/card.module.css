@@ -20,6 +20,7 @@
   margin-bottom: 1.2rem;
 }
 
+
 .icon {
   margin: 5px;
   cursor: pointer;
@@ -34,4 +35,23 @@
 
 .ativo {
   color: #993399;
+}
+
+.btn_resolver {
+  border: 1px solid #993399;
+  color: #993399;
+  border-radius: 5px;
+  padding: 5px 20px;
+}
+
+.btn_resolver:hover {
+  background-color: #993399;
+  color: white;
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 0 5px 0;
+align-items: flex-end;
 }
