@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/solucionaprevi/static/css/main.a98f28f6.chunk.css",
+    "main.css": "/solucionaprevi/static/css/main.6ae215cd.chunk.css",
     "main.js": "/solucionaprevi/static/js/main.5a56a324.chunk.js",
     "main.js.map": "/solucionaprevi/static/js/main.5a56a324.chunk.js.map",
     "runtime-main.js": "/solucionaprevi/static/js/runtime-main.bd2b1907.js",
@@ -9,10 +9,10 @@
     "static/js/2.99116de0.chunk.js": "/solucionaprevi/static/js/2.99116de0.chunk.js",
     "static/js/2.99116de0.chunk.js.map": "/solucionaprevi/static/js/2.99116de0.chunk.js.map",
     "index.html": "/solucionaprevi/index.html",
-    "precache-manifest.632e77638c3c62012e0edbd45ad2c9cc.js": "/solucionaprevi/precache-manifest.632e77638c3c62012e0edbd45ad2c9cc.js",
+    "precache-manifest.7048bb4b2466b2e8adb65a9201049299.js": "/solucionaprevi/precache-manifest.7048bb4b2466b2e8adb65a9201049299.js",
     "service-worker.js": "/solucionaprevi/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/solucionaprevi/static/css/2.11829350.chunk.css.map",
-    "static/css/main.a98f28f6.chunk.css.map": "/solucionaprevi/static/css/main.a98f28f6.chunk.css.map",
+    "static/css/main.6ae215cd.chunk.css.map": "/solucionaprevi/static/css/main.6ae215cd.chunk.css.map",
     "static/js/2.99116de0.chunk.js.LICENSE.txt": "/solucionaprevi/static/js/2.99116de0.chunk.js.LICENSE.txt",
     "static/media/automation.jpg": "/solucionaprevi/static/media/automation.0181e107.jpg",
     "static/media/logo_svg.svg": "/solucionaprevi/static/media/logo_svg.780e8396.svg"
@@ -21,7 +21,7 @@
     "static/js/runtime-main.bd2b1907.js",
     "static/css/2.11829350.chunk.css",
     "static/js/2.99116de0.chunk.js",
-    "static/css/main.a98f28f6.chunk.css",
+    "static/css/main.6ae215cd.chunk.css",
     "static/js/main.5a56a324.chunk.js"
   ]
 }
