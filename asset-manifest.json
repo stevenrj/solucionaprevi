@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/solucionaprevi/static/css/main.c123f3e1.chunk.css",
+    "main.js": "/solucionaprevi/static/js/main.20da9440.chunk.js",
+    "main.js.map": "/solucionaprevi/static/js/main.20da9440.chunk.js.map",
+    "runtime-main.js": "/solucionaprevi/static/js/runtime-main.bd2b1907.js",
+    "runtime-main.js.map": "/solucionaprevi/static/js/runtime-main.bd2b1907.js.map",
+    "static/css/2.11829350.chunk.css": "/solucionaprevi/static/css/2.11829350.chunk.css",
+    "static/js/2.99116de0.chunk.js": "/solucionaprevi/static/js/2.99116de0.chunk.js",
+    "static/js/2.99116de0.chunk.js.map": "/solucionaprevi/static/js/2.99116de0.chunk.js.map",
+    "index.html": "/solucionaprevi/index.html",
+    "precache-manifest.d1886682b9b24b1949343af6af862f6e.js": "/solucionaprevi/precache-manifest.d1886682b9b24b1949343af6af862f6e.js",
+    "service-worker.js": "/solucionaprevi/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/solucionaprevi/static/css/2.11829350.chunk.css.map",
+    "static/css/main.c123f3e1.chunk.css.map": "/solucionaprevi/static/css/main.c123f3e1.chunk.css.map",
+    "static/js/2.99116de0.chunk.js.LICENSE.txt": "/solucionaprevi/static/js/2.99116de0.chunk.js.LICENSE.txt",
+    "static/media/automation.jpg": "/solucionaprevi/static/media/automation.0181e107.jpg",
+    "static/media/logo_svg.svg": "/solucionaprevi/static/media/logo_svg.780e8396.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd2b1907.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.99116de0.chunk.js",
+    "static/css/main.c123f3e1.chunk.css",
+    "static/js/main.20da9440.chunk.js"
+  ]
+}
