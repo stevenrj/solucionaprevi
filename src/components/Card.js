@@ -33,7 +33,8 @@ export default function Card() {
 
   return (
     
-    <Container className={css.row}>
+    <Container >
+      <div className={css.row}>
       {isModalCommentOpen && <ModalComment handleCloseCommentClick={handleCloseCommentClick}/>}
       <div>
         <img
@@ -72,6 +73,7 @@ export default function Card() {
             disabled
           ></textarea>
         </div>
+      </div>
       </div>
     </Container>
   );
