@@ -1,0 +1,33 @@
+.container_modal {
+  margin: 50px auto;
+  padding: 50px;
+  background-color: lightgray;
+  height: 800px;
+  width: 600px;
+
+}
+.row {
+  display: flex;
+  justify-content: space-between;
+}
+
+.comments {  
+  margin-top: 20px;
+  width: 500px;
+}
+
+.btn_publicar {
+  margin-top: 5px;
+  margin-left: 410px;
+}
+
+.close {
+  background-color: red;
+  border-radius: 50%;
+  width: 25px;
+  height: 25px;
+  color: white;
+  text-align: center;
+  cursor: pointer;
+  text-decoration: none;
+}

@@ -1,0 +1,37 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap");
+
+
+* {
+  font-family: 'Poppins', sans-serif;
+}
+
+.logo {
+  width: 150px;
+}
+
+.dadosUsuario {
+  display: flex;
+  flex-direction: column;
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 1rem;
+  position: relative;
+}
+
+.hr1 {
+  border: 1.5px solid lightgray;
+  position: relative;
+  top: -75px;
+}
+
+.hr2 {
+  border: 1.5px solid lightgray;
+  position: relative;
+  top: -50px;
+}
+
+

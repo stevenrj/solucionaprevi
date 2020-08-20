@@ -1,0 +1,37 @@
+.imgProblema {
+  width: 500px;
+  height: 300px;
+  margin-right: 2rem;
+  border-radius: 5px;
+}
+
+.infoCard {
+  width: 600px;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+  margin: 2rem;
+}
+
+.nomeProblema {
+  display: inline-block;
+  margin-bottom: 1.2rem;
+}
+
+.icon {
+  margin: 5px;
+  cursor: pointer;
+}
+
+
+.iconBell {
+  margin: 5px;
+  margin-left: 390px;
+  cursor: pointer;
+}
+
+.ativo {
+  color: #993399;
+}
