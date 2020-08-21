@@ -1,27 +1,28 @@
 {
   "files": {
-    "main.css": "/solucionaprevi/static/css/main.6ae215cd.chunk.css",
-    "main.js": "/solucionaprevi/static/js/main.5a56a324.chunk.js",
-    "main.js.map": "/solucionaprevi/static/js/main.5a56a324.chunk.js.map",
+    "main.css": "/solucionaprevi/static/css/main.0942773e.chunk.css",
+    "main.js": "/solucionaprevi/static/js/main.f4f85448.chunk.js",
+    "main.js.map": "/solucionaprevi/static/js/main.f4f85448.chunk.js.map",
     "runtime-main.js": "/solucionaprevi/static/js/runtime-main.bd2b1907.js",
     "runtime-main.js.map": "/solucionaprevi/static/js/runtime-main.bd2b1907.js.map",
     "static/css/2.11829350.chunk.css": "/solucionaprevi/static/css/2.11829350.chunk.css",
-    "static/js/2.99116de0.chunk.js": "/solucionaprevi/static/js/2.99116de0.chunk.js",
-    "static/js/2.99116de0.chunk.js.map": "/solucionaprevi/static/js/2.99116de0.chunk.js.map",
+    "static/js/2.c6a46c06.chunk.js": "/solucionaprevi/static/js/2.c6a46c06.chunk.js",
+    "static/js/2.c6a46c06.chunk.js.map": "/solucionaprevi/static/js/2.c6a46c06.chunk.js.map",
     "index.html": "/solucionaprevi/index.html",
-    "precache-manifest.7048bb4b2466b2e8adb65a9201049299.js": "/solucionaprevi/precache-manifest.7048bb4b2466b2e8adb65a9201049299.js",
+    "precache-manifest.8108190e93e69e3939403fa790a74d19.js": "/solucionaprevi/precache-manifest.8108190e93e69e3939403fa790a74d19.js",
     "service-worker.js": "/solucionaprevi/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/solucionaprevi/static/css/2.11829350.chunk.css.map",
-    "static/css/main.6ae215cd.chunk.css.map": "/solucionaprevi/static/css/main.6ae215cd.chunk.css.map",
-    "static/js/2.99116de0.chunk.js.LICENSE.txt": "/solucionaprevi/static/js/2.99116de0.chunk.js.LICENSE.txt",
+    "static/css/main.0942773e.chunk.css.map": "/solucionaprevi/static/css/main.0942773e.chunk.css.map",
+    "static/js/2.c6a46c06.chunk.js.LICENSE.txt": "/solucionaprevi/static/js/2.c6a46c06.chunk.js.LICENSE.txt",
     "static/media/automation.jpg": "/solucionaprevi/static/media/automation.0181e107.jpg",
+    "static/media/drag-drop-upload.gif": "/solucionaprevi/static/media/drag-drop-upload.145dd495.gif",
     "static/media/logo_svg.svg": "/solucionaprevi/static/media/logo_svg.780e8396.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.bd2b1907.js",
     "static/css/2.11829350.chunk.css",
-    "static/js/2.99116de0.chunk.js",
-    "static/css/main.6ae215cd.chunk.css",
-    "static/js/main.5a56a324.chunk.js"
+    "static/js/2.c6a46c06.chunk.js",
+    "static/css/main.0942773e.chunk.css",
+    "static/js/main.f4f85448.chunk.js"
   ]
 }
