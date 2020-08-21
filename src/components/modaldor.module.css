@@ -1,0 +1,30 @@
+.modal_dor {
+  width: 70%;
+  padding: 20px;
+  margin: 50px auto;
+  background-color: white;
+  border: 1px solid black;
+}
+
+.btns {
+  display: flex;
+
+  justify-content: space-between;
+}
+
+.img {
+  width: 500px;
+  height: 300px;
+  margin-right: 2rem;
+  border-radius: 5px;
+}
+
+.group_img_input {
+  display: flex;
+
+}
+
+.input_file {
+  margin-top: 30px;
+
+}

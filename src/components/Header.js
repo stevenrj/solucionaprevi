@@ -6,7 +6,7 @@ import Navegacao from './Navegacao';
 import Container from 'react-bootstrap/Container'
 
 
-export default function Header() {
+export default function Header({handleClickOpenModalDor}) {
   return (
     <Container>
     <div className={css.row}>
@@ -19,7 +19,7 @@ export default function Header() {
 
     </div>
     
-    <Navegacao /> 
+    <Navegacao handleClickOpenModalDor={handleClickOpenModalDor}/> 
     <hr className={css.hr1}/>
     <hr className={css.hr2}/>
     

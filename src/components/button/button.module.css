@@ -1,0 +1,11 @@
+.btn_resolver {
+  border: 1px solid #993399;
+  color: #993399;
+  border-radius: 5px;
+  padding: 5px 20px;
+}
+
+.btn_resolver:hover {
+  background-color: #993399;
+  color: white;
+}

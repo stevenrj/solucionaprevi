@@ -4,12 +4,17 @@ import { FaBell } from 'react-icons/fa';
 import { Navbar, Nav, NavItem, NavLink } from 'react-bootstrap';
 import css from './navegacao.module.css'
 
-export default function Navegacao() {
+
+export default function Navegacao({handleClickOpenModalDor}) {
+  const handleClickDor = () => {
+    handleClickOpenModalDor()
+  }
+
   return (
     <div>
+      
       <Navbar color="primary" dark expand="md">
         <Nav className={`navbar navbar-expand-lg navbar-light bg-light `} >
-
             <NavItem>
               <NavLink href="/">SP Home</NavLink>
             </NavItem>
@@ -17,7 +22,7 @@ export default function Navegacao() {
               <NavLink href="/">Dashboard</NavLink>
             </NavItem>
             <NavItem>
-              <NavLink href="/">Conte a sua dor</NavLink>
+              <NavLink href="#" onClick={handleClickDor}>Conte a sua dor</NavLink>
             </NavItem>
             <NavItem className={css.ml_auto}>
               <NavLink href="#">
@@ -30,6 +35,7 @@ export default function Navegacao() {
            
         </Nav>
       </Navbar>
+      
     </div>
   );
 }

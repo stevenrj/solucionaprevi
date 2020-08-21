@@ -1,13 +1,12 @@
 import React from 'react';
-import Header from './components/Header';
-import Card from './components/Card';
+import Home from './components/Home';
+
 
 
 function App() {
   return (
     <div className="App">
-      <Header />
-      <Card />
+      <Home />
     </div>
   );
 }
